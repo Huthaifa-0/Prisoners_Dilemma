@@ -8,5 +8,7 @@ public class RandomMove implements strategy {
             return Move.DEFECT;
         }
     }
+
+    
     
 }
